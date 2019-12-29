@@ -4,7 +4,7 @@ js_multiarea_cropper is a frontend framework to select multiple areas of an imag
 
 ![js_multiarea_cropper Preview](multiarea_cropper_preview.jpg)
 
-js_multiarea_cropper is inspired by [jquery-select-areas](https://github.com/360Learning/jquery-select-areas), which is a discontinued project. It is written in vanilla JavaScript and designed to be mobile friendly (there are still work to be done in order to fully achieve this). You can try out the incomplete framework in the demo.
+js_multiarea_cropper is inspired by [jquery-select-areas](https://github.com/360Learning/jquery-select-areas), which is a discontinued project. It is written in vanilla JavaScript and designed to be mobile friendly (there are still work to be done in order to fully achieve this). You can try out the incomplete framework in [the demo](https://polygonalr.github.io/js_multiarea_cropper/demo/).
 
 ## Features that are being worked on
 * Deletion of selection areas
