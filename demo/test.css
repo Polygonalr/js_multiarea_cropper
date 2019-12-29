@@ -1,0 +1,7 @@
+#MultiAreaCropper{
+    background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url('./cinnamon.jpg');
+    background-size: cover;
+    width: 1280px; 
+    height: 880px;
+    position: relative;
+}
